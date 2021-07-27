@@ -1,0 +1,17 @@
+{
+    "name": "djamel/landing",
+    "autoload": {
+        "psr-4": {
+            "Djamel\\Landing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rahmani djamel",
+            "email": "hxhdono11@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
